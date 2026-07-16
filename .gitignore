@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
+
+# Databases
+data/processed/*.db
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+
+# OS files
+.DS_Store
+
+# Local tooling config / assessment brief — not part of the project
+.claude/
+ML_Intern_Take_Home_Assesment_2026.pdf
