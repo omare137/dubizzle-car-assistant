@@ -37,6 +37,10 @@ Needs the backend running at `http://127.0.0.1:8000` — the backend's CORS midd
 plus its `127.0.0.1` twin, so a different port or host needs that setting updated on both
 sides.
 
+## How to login?
+once sign-in page input "omar.k" into the username box and proceed to chat
+ 
+
 ## Why this stack
 
 The frontend is a real chat UI (TanStack Start/React) rather than a Streamlit or notebook
